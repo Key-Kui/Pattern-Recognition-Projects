@@ -41,5 +41,5 @@ output.txt
 # Data
 bank+marketing/
 
-# PDF templates (school logo)
-*.pdf
+# PDF templates (school logo) - only exclude these, keep results
+# *.pdf
